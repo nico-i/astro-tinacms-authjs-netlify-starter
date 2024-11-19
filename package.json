@@ -20,7 +20,7 @@
     "express": "^4.21.1",
     "mongodb-level": "0.0.2",
     "tinacms": "0.0.0-20230725171356",
-    "tinacms-gitprovider-github": "0.0.0-20230725171356",
+    "tinacms-gitprovider-github": "0.0.1",
     "typescript": "^5.6.3"
   },
   "devDependencies": {
