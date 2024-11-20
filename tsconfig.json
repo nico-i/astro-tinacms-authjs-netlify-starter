@@ -23,5 +23,7 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false
-  }
+  },
+  "include": ["src/**/*", "tina/**/*", "netlify/**/*"],
+  "exclude": ["tina/__generated__/**/*"]
 }
